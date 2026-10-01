@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f4068,100:e05d2a&text=Yanis%20Ferrat&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Rust%20%7C%20Tauri%20%7C%20Agentic%20AI&descAlignY=58&descSize=17" alt="Yanis Ferrat" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1f4068,100:e05d2a" alt="" width="100%" />
 </p>
+
+<h1 align="center">Yanis Ferrat</h1>
+<p align="center"><b>Senior Software Engineer</b> · Rust | Tauri | Agentic AI</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=E05D2A&center=true&vCenter=true&width=640&lines=Offline-first+desktop+apps+in+Rust+%2B+Tauri+v2;SaaS+products+running+real+businesses;Multi-agent+AI+engineering+workflows;8+years+shipping+production+software" alt="Typing SVG" /></a>
