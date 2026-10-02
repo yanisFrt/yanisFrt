@@ -12,8 +12,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ferrat-yaniis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.codesnova.com"><img src="https://img.shields.io/badge/Codes%20Nova-1f4068?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Codes Nova" /></a>
+<a href="https://www.codesnova.com"><img src="https://img.shields.io/badge/Repair%20Pro-1f4068?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Codes Nova" /></a>
+<a href="https://www.codesnova.com"><img src="https://img.shields.io/badge/Dispoo-1f4068?style=for-the-badge&logo=googlechrome&logoColor=orange" alt="Codes Nova" /></a> 
 <a href="mailto:ferratyaniis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Europe%20%26%20Remote-2ea44f?style=for-the-badge" alt="Open to Europe and remote" />
+<!-- <img src="https://img.shields.io/badge/Open%20to-Europe%20%26%20Remote-2ea44f?style=for-the-badge" alt="Open to Europe and remote" /> -->
 </p>
 
 ---
